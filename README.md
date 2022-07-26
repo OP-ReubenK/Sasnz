@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sasnz
+- 👋 Hi, I’m Reuben koks
 - 👀 I’m interested in hardware and Robotics
 - 🌱 I’m currently learning how to use GitHub as part of the Bachelor of IT at Otago Polytech
 - 💞️ I’m looking to collaborate onmany many projects
